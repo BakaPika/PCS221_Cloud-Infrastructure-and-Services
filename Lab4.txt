@@ -1,1 +1,2 @@
 Public IP: 20.17.98.178
+Static Endpoint: https://teststtest.z48.web.core.windows.net/
